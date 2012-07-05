@@ -1,0 +1,20 @@
+{
+  "name": "github-delete-branches",
+  "version": "0.0.0",
+  "description": "Test script for weird GitHub issues.",
+  "main": "clobber.coffee",
+  "dependencies": {},
+  "devDependencies": {
+    "request": "~2.9.203"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iangreenleaf/github-delete-branches.git"
+  },
+  "author": "Ian Young <ian.greenleaf@gmail.com>",
+  "license": "BSD",
+  "private": true
+}
