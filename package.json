@@ -5,7 +5,8 @@
   "main": "clobber.coffee",
   "dependencies": {},
   "devDependencies": {
-    "request": "~2.9.203"
+    "request": "~2.9.203",
+    "async": "~0.1.22"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
