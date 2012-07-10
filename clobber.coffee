@@ -20,7 +20,7 @@ creates = []
 deletes = []
 create_res = {}
 delete_res = {}
-for i in [1..3]
+for i in [1..50]
   do (i) ->
     creates.push (done) ->
       request
